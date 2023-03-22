@@ -4,7 +4,7 @@
   <Title>What?Where?When?</Title>
   <Severity>Minor/Major/Trivial</Severity>
   <Priority>Low/Medium/High</Priority>
-  <Precondition>Role,_lecinse,_language</Precondition>
+  <Precondition>Role,_license,_language</Precondition>
   <Environment>Tester's_devices</Environment>
   <Steps>Steps</Steps>
   <ER>Expected_result</ER>
