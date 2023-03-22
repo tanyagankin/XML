@@ -1,0 +1,15 @@
+<main>
+  <Date>actual_date</Date>
+  <ID>BR-01</ID>
+  <Title>What?Where?When?</Title>
+  <Severity>Minor/Major/Trivial</Severity>
+  <Priority>Low/Medium/High</Priority>
+  <Precondition>Role,_lecinse,_language</Precondition>
+  <Environment>Tester's_devices</Environment>
+  <Steps>Steps</Steps>
+  <ER>Expected_result</ER>
+  <AR>Actual_result</AR>
+  <Attachment>link,_video,_sreen</Attachment>
+  <Author>telegram_nik,_name</Author>
+  <Comments>comments</Comments>
+  </main>
