@@ -1,0 +1,24 @@
+<Main>
+      <My_Favorite_Movie>
+	  <movie1>Three_men_and_one_little_women</movie1>
+	  <movie2>How_to_Lose_a_Guy_in_10_Days</movie2>
+	  <movie3>Schindler's_List</movie2>
+      </My_favorite_movie>
+
+      <My_favorite_serial>
+	  <series1>Magnificent_century</serias1>
+	  <series2>Desperate_Housewives</serias2>
+      </My_favorite_serial>
+	
+      <My_favorite_food>Seafood_and_fish</My_favorite_food>
+
+      <My_favorite_seasons>Summer_and_Spring</My_favorite_seasons>
+
+     <Which_country_would_you_like_to_visit>:
+	<country1>USA</country1>
+	<country2>Sri_Lanka</country2>
+	<country3>Holland</country3>
+	<country4>Tanzania</country4>
+	<country5>Indonesia</country> 
+      </Which_country_would_you_like_to_visit>
+</Main>
